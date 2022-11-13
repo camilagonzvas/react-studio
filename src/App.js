@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>My Cool Bakery</h1> 
+      <h1>Camila's Bakery</h1> 
 
       <p>Total Price: ${totalPrice}</p>
       <button onClick={() => handleClick()}>Click me!</button>
